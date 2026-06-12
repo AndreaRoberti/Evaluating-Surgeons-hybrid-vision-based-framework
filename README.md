@@ -1,4 +1,4 @@
-# Evaluating Surgeons' Performance on the da Vinci System Using Vision-Based Kinematic Tracking
+# Vision-Based Estimation of da Vinci Master Tool Manipulator Kinematics for Surgical Performance Assessment
 
 This repository contains the **code and dataset** associated with the paper:
 
@@ -11,7 +11,6 @@ Verona, Strada le Grazie 15, Verona, 37134, Italy.
 2 Department of Surgery, Dentistry, Pediatrics and Gynaecology,
 University of Verona, Piazzale Ludovico Antonio Scuro 10, Verona,
 37134,Italy. 
-> IPCAI 2026
 
 The project proposes a **non-invasive hybrid vision-based framework** for tracking surgeon hand motion and dVRK Master Tool Manipulator (MTM) motion using complementary **markerless (MediaPipe)** and **marker-based (ArUco)** vision approaches, enabling the extraction of task-level kinematic metrics for surgical skill assessment.
 
