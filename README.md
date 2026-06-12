@@ -3,7 +3,7 @@
 This repository contains the **code and dataset** associated with the paper:
 
 
-> **Evaluating Surgeons' Performance on the da Vinci System Using Vision-Based Kinematic Tracking**  
+> **Vision-Based Estimation of da Vinci Master Tool Manipulator Kinematics for Surgical Performance Assessment**  
 > Andrea Roberti 1* , Pio Giacomo Cimino 1* , Maria Bencivenga 2 ,
 Simone Giacopuzzi 2 , Riccardo Muradore 1
 1* Department of Engineering for Innovation Medicine, University of
